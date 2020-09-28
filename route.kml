@@ -1,0 +1,43 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Folder>
+    <name>Dose Taken</name>
+    <LookAt>
+      <longitude>77.577</longitude>
+      <latitude>34.152</latitude>
+      <heading>0</heading>
+      <tilt>0</tilt>
+      <range>50000</range>
+      <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+    </LookAt>
+    <Placemark>
+      <name>-91.48 Rads</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.67486171866737,34.240187928161454,0 </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>line</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff5014E7</color>
+          <gx:physicalWidth>100</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          <coordinates>77.72200924592586,34.219618921878514,0 77.62771419140888,34.260756934444395,0 </coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,387 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Folder>
+    <name>Damage</name>
+    <LookAt>
+      <longitude>77.577</longitude>
+      <latitude>34.152</latitude>
+      <heading>0</heading>
+      <tilt>0</tilt>
+      <range>5000</range>
+      <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+    </LookAt>
+    <Placemark>
+      <name>gx:altitudeMode Example2</name>
+      <Style id="street">
+        <PolyStyle>
+          <color>48501400</color>
+          <colorMode>random</colorMode>
+          <fill>1</fill>
+          <outline>1</outline>
+        </PolyStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <extrude>0</extrude>
+              <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+              <coordinates>77.5877,34.1520,0 
+77.5875,34.1539,0 
+77.5870,34.1557,0 
+77.5863,34.1573,0 
+77.5852,34.1589,0 
+77.5839,34.1602,0 
+77.5823,34.1613,0 
+77.5807,34.1620,0 
+77.5789,34.1625,0 
+77.5770,34.1627,0 
+77.5751,34.1625,0 
+77.5733,34.1620,0 
+77.5717,34.1613,0 
+77.5701,34.1602,0 
+77.5688,34.1589,0 
+77.5677,34.1573,0 
+77.5670,34.1557,0 
+77.5665,34.1539,0 
+77.5663,34.1520,0 
+77.5665,34.1501,0 
+77.5670,34.1483,0 
+77.5677,34.1467,0 
+77.5688,34.1451,0 
+77.5701,34.1438,0 
+77.5717,34.1427,0 
+77.5733,34.1420,0 
+77.5751,34.1415,0 
+77.5770,34.1413,0 
+77.5789,34.1415,0 
+77.5807,34.1420,0 
+77.5823,34.1427,0 
+77.5839,34.1438,0 
+77.5852,34.1451,0 
+77.5863,34.1467,0 
+77.5870,34.1483,0 
+77.5875,34.1501,0 
+77.5877,34.1520,0 
+</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <extrude>0</extrude>
+              <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+              <coordinates>77.5854,34.1520,0 
+77.5852,34.1535,0 
+77.5849,34.1549,0 
+77.5842,34.1562,0 
+77.5834,34.1574,0 
+77.5824,34.1584,0 
+77.5812,34.1592,0 
+77.5799,34.1599,0 
+77.5785,34.1602,0 
+77.5770,34.1604,0 
+77.5755,34.1602,0 
+77.5741,34.1599,0 
+77.5728,34.1592,0 
+77.5716,34.1584,0 
+77.5706,34.1574,0 
+77.5698,34.1562,0 
+77.5691,34.1549,0 
+77.5688,34.1535,0 
+77.5686,34.1520,0 
+77.5688,34.1505,0 
+77.5691,34.1491,0 
+77.5698,34.1478,0 
+77.5706,34.1466,0 
+77.5716,34.1456,0 
+77.5728,34.1448,0 
+77.5741,34.1441,0 
+77.5755,34.1438,0 
+77.5770,34.1436,0 
+77.5785,34.1438,0 
+77.5799,34.1441,0 
+77.5812,34.1448,0 
+77.5824,34.1456,0 
+77.5834,34.1466,0 
+77.5842,34.1478,0 
+77.5849,34.1491,0 
+77.5852,34.1505,0 
+77.5854,34.1520,0 
+</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <extrude>0</extrude>
+              <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+              <coordinates>77.5837,34.1520,0 
+77.5836,34.1532,0 
+77.5833,34.1543,0 
+77.5828,34.1554,0 
+77.5822,34.1563,0 
+77.5813,34.1572,0 
+77.5804,34.1578,0 
+77.5793,34.1583,0 
+77.5782,34.1586,0 
+77.5770,34.1587,0 
+77.5758,34.1586,0 
+77.5747,34.1583,0 
+77.5736,34.1578,0 
+77.5727,34.1572,0 
+77.5718,34.1563,0 
+77.5712,34.1554,0 
+77.5707,34.1543,0 
+77.5704,34.1532,0 
+77.5703,34.1520,0 
+77.5704,34.1508,0 
+77.5707,34.1497,0 
+77.5712,34.1486,0 
+77.5718,34.1477,0 
+77.5727,34.1468,0 
+77.5736,34.1462,0 
+77.5747,34.1457,0 
+77.5758,34.1454,0 
+77.5770,34.1453,0 
+77.5782,34.1454,0 
+77.5793,34.1457,0 
+77.5804,34.1462,0 
+77.5813,34.1468,0 
+77.5822,34.1477,0 
+77.5828,34.1486,0 
+77.5833,34.1497,0 
+77.5836,34.1508,0 
+77.5837,34.1520,0 
+</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>1st Deg</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.5770,34.1627,0 
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2nd Deg</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.5829,34.1579,0 
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3rd Deg</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.5837,34.1520,0 
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Concrete</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.5770,34.1473,0 
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wooden</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.5852,34.1463,0 
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glass</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff501400</color>
+          <gx:physicalWidth>80</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <Point>
+        <coordinates>77.6074,34.1520,0 
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>gx:altitudeMode Example3</name>
+      <Style id="street">
+        <LineStyle>
+          <color>ff5014E7</color>
+          <gx:physicalWidth>12</gx:physicalWidth>
+        </LineStyle>
+      </Style>
+      <styleUrl>#street</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          <coordinates>77.5817,34.1520,0 
+77.5816,34.1528,0 
+77.5814,34.1536,0 
+77.5811,34.1544,0 
+77.5806,34.1550,0 
+77.5800,34.1556,0 
+77.5794,34.1561,0 
+77.5786,34.1564,0 
+77.5778,34.1566,0 
+77.5770,34.1567,0 
+77.5762,34.1566,0 
+77.5754,34.1564,0 
+77.5746,34.1561,0 
+77.5740,34.1556,0 
+77.5734,34.1550,0 
+77.5729,34.1544,0 
+77.5726,34.1536,0 
+77.5724,34.1528,0 
+77.5723,34.1520,0 
+77.5724,34.1512,0 
+77.5726,34.1504,0 
+77.5729,34.1496,0 
+77.5734,34.1490,0 
+77.5740,34.1484,0 
+77.5746,34.1479,0 
+77.5754,34.1476,0 
+77.5762,34.1474,0 
+77.5770,34.1473,0 
+77.5778,34.1474,0 
+77.5786,34.1476,0 
+77.5794,34.1479,0 
+77.5800,34.1484,0 
+77.5806,34.1490,0 
+77.5811,34.1496,0 
+77.5814,34.1504,0 
+77.5816,34.1512,0 
+77.5817,34.1520,0 
+</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          <coordinates>77.5870,34.1520,0 
+77.5868,34.1537,0 
+77.5864,34.1554,0 
+77.5856,34.1570,0 
+77.5846,34.1584,0 
+77.5834,34.1596,0 
+77.5820,34.1606,0 
+77.5804,34.1614,0 
+77.5787,34.1618,0 
+77.5770,34.1620,0 
+77.5753,34.1618,0 
+77.5736,34.1614,0 
+77.5720,34.1606,0 
+77.5706,34.1596,0 
+77.5694,34.1584,0 
+77.5684,34.1570,0 
+77.5676,34.1554,0 
+77.5672,34.1537,0 
+77.5670,34.1520,0 
+77.5672,34.1503,0 
+77.5676,34.1486,0 
+77.5684,34.1470,0 
+77.5694,34.1456,0 
+77.5706,34.1444,0 
+77.5720,34.1434,0 
+77.5736,34.1426,0 
+77.5753,34.1422,0 
+77.5770,34.1420,0 
+77.5787,34.1422,0 
+77.5804,34.1426,0 
+77.5820,34.1434,0 
+77.5834,34.1444,0 
+77.5846,34.1456,0 
+77.5856,34.1470,0 
+77.5864,34.1486,0 
+77.5868,34.1503,0 
+77.5870,34.1520,0 
+</coordinates>
+        </LineString>
+        <LineString>
+          <extrude>0</extrude>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+          <coordinates>77.6074,34.1520,0 
+77.6069,34.1573,0 
+77.6056,34.1624,0 
+77.6033,34.1672,0 
+77.6003,34.1715,0 
+77.5965,34.1753,0 
+77.5922,34.1783,0 
+77.5874,34.1806,0 
+77.5823,34.1819,0 
+77.5770,34.1824,0 
+77.5717,34.1819,0 
+77.5666,34.1806,0 
+77.5618,34.1783,0 
+77.5575,34.1753,0 
+77.5537,34.1715,0 
+77.5507,34.1672,0 
+77.5484,34.1624,0 
+77.5471,34.1573,0 
+77.5466,34.1520,0 
+77.5471,34.1467,0 
+77.5484,34.1416,0 
+77.5507,34.1368,0 
+77.5537,34.1325,0 
+77.5575,34.1287,0 
+77.5618,34.1257,0 
+77.5666,34.1234,0 
+77.5717,34.1221,0 
+77.5770,34.1216,0 
+77.5823,34.1221,0 
+77.5874,34.1234,0 
+77.5922,34.1257,0 
+77.5965,34.1287,0 
+77.6003,34.1325,0 
+77.6033,34.1368,0 
+77.6056,34.1416,0 
+77.6069,34.1467,0 
+77.6074,34.1520,0 
+</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,69 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Placemark>
+    <name>gx:altitudeMode Example</name>
+    <Style id="street">
+      <LineStyle>
+        <color>ff501400</color>
+        <gx:physicalWidth>80</gx:physicalWidth>
+      </LineStyle>
+    </Style>
+    <LookAt>
+      <longitude>77.577</longitude>
+      <latitude>34.152</latitude>
+      <heading>0</heading>
+      <tilt>0</tilt>
+      <range>25000</range>
+      <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+    </LookAt>
+    <styleUrl>#street</styleUrl>
+    <MultiGeometry>
+      <LineString>
+        <extrude>0</extrude>
+        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        <coordinates>77.579,34.142,0 77.695,34.172,0 77.597,34.27,0 77.567,34.154,0 </coordinates>
+      </LineString>
+      <LineString>
+        <extrude>0</extrude>
+        <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        <coordinates>77.5870,34.1520,0 
+77.5868,34.1537,0 
+77.5864,34.1554,0 
+77.5857,34.1570,0 
+77.5847,34.1584,0 
+77.5834,34.1597,0 
+77.5820,34.1607,0 
+77.5804,34.1614,0 
+77.5787,34.1618,0 
+77.5770,34.1620,0 
+77.5753,34.1618,0 
+77.5736,34.1614,0 
+77.5720,34.1607,0 
+77.5706,34.1597,0 
+77.5693,34.1584,0 
+77.5683,34.1570,0 
+77.5676,34.1554,0 
+77.5672,34.1537,0 
+77.5670,34.1520,0 
+77.5672,34.1503,0 
+77.5676,34.1486,0 
+77.5683,34.1470,0 
+77.5693,34.1456,0 
+77.5706,34.1443,0 
+77.5720,34.1433,0 
+77.5736,34.1426,0 
+77.5753,34.1422,0 
+77.5770,34.1420,0 
+77.5787,34.1422,0 
+77.5804,34.1426,0 
+77.5820,34.1433,0 
+77.5834,34.1443,0 
+77.5847,34.1456,0 
+77.5857,34.1470,0 
+77.5864,34.1486,0 
+77.5868,34.1503,0 
+77.5870,34.1520,0 
+</coordinates>
+      </LineString>
+    </MultiGeometry>
+  </Placemark>
+</kml>
