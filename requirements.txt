@@ -1,0 +1,6 @@
+Requirements for running hazard Program
+1.  matplotlib
+    (a)     To plot Hazard predictions on Map Sheet Images
+2.  lxml
+3.  pykml
+    (a)     To generate kml file, which can be viewed on Google earth and QGis
