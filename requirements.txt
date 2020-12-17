@@ -4,3 +4,7 @@ Requirements for running hazard Program
 2.  lxml
 3.  pykml
     (a)     To generate kml file, which can be viewed on Google earth and QGis
+4.  scipy
+    (a)     To do integration and calculus calculation required for Radiac Calculator calculation
+5.  openpyxl
+    (a)     To calculate Radiation exposure status of various tps in excel sheet.
